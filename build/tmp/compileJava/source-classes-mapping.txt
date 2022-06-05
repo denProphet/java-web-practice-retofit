@@ -1,0 +1,14 @@
+com/company/TinyUrlResponse.java
+ com.company.TinyUrlResponse
+com/company/GoogleService.java
+ com.company.GoogleService
+com/company/TinyUrlService.java
+ com.company.TinyUrlService
+com/company/GitHubReposJsonResponseTest.java
+ com.company.GitHubReposJsonResponseTest
+com/company/TinyUrlPostTest.java
+ com.company.TinyUrlPostTest
+com/company/HtmlResponseTest.java
+ com.company.HtmlResponseTest
+com/company/GitHubService.java
+ com.company.GitHubService
